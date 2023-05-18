@@ -4,7 +4,7 @@ AdminLTE3 - Bootstrap Admin Dashboard Template Converted to Laravel project (lay
 AdminLTE3 - Template -> <a href="https://adminlte.io/themes/v3/" target="_blank">Click Here To View</a>
 
 
-<img src="https://s12.gifyu.com/images/Screenshot-from-2023-05-09-23-35-08.png" alt="loJuq.png" border="0" />
+<img src="https://drive.google.com/uc?export=view&id=1su9_uCcjhnSy7GuSbIPd6jpSqVbAU3JM">
 
 <b>How to convert HTML template to Laravel project in 5 simple steps</b>
 1. Copy all . html files to Your Laravel Project Folder > Resources > Views.
